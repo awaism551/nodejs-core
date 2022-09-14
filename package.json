@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-course-linkedinlearning",
+  "version": "1.0.0",
+  "description": "This repo contains the implementation of core nodejs concepts",
+  "main": "module-consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaism551/nodejs-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaism551/nodejs-core/issues"
+  },
+  "homepage": "https://github.com/awaism551/nodejs-core#readme"
+}
